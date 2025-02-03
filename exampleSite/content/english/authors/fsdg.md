@@ -27,7 +27,8 @@ donation_goals:
         accountName: ''
         branch: ''
         reference: ''
-categories: []
+categories:
+  - cat-01
 tags: []
 draft: false
 ---
