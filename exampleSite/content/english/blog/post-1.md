@@ -7,9 +7,9 @@ config:
   theme:
     darkMode: true
     colors:
-      primary: '#ff5733'
-      secondary: '#33c9ff'
-      background: '#f4f4f4'
+      primary: '#592c22'
+      secondary: '#274049'
+      background: '#6b2929'
   layout:
     header:
       enabled: true
@@ -37,6 +37,7 @@ config:
           enabled: true
         - type: tasks
           enabled: false
+draft: false
 ---
 # Project Documentation
 
