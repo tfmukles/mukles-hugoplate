@@ -1,6 +1,6 @@
 ---
-title: fsdg
-meta_title: ''
+title: This title
+meta_title: this meta title.
 description: ''
 date: ''
 image: ''
@@ -29,5 +29,5 @@ donation_goals:
         reference: ''
 categories: []
 tags: []
-draft: true
+draft: false
 ---
