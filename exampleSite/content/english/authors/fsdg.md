@@ -1,8 +1,8 @@
 ---
 title: This title
 meta_title: this meta title.
-description: ''
-date: ''
+description: this is description....
+date: 10-12-2001
 image: ''
 organizer: ''
 project_end_date:
