@@ -1,6 +1,6 @@
 ---
-title: qwertyuiop
-meta_title: asdfghjkl
+title: bottle
+meta_title: this meta title
 description: this description
 draft: false
 ---
