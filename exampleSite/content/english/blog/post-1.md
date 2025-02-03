@@ -29,7 +29,7 @@ config:
     authentication:
       enabled: true
       providers:
-        google: true
+        google: false
         github: true
     dashboard:
       widgets:
