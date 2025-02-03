@@ -1,5 +1,5 @@
 ---
-title: this title changed
+title: this title changed.
 meta_title: this meta title.
 description: this is description....
 date: 10-12-2001
