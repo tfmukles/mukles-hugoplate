@@ -1,7 +1,7 @@
 ---
 title: this title changed.
-meta_title: this meta title.
-description: this is description....
+meta_title: this meta title. asdfas asdfas a
+description: this desc
 date: 10-12-2001
 image: ''
 organizer: ''
