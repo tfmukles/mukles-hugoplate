@@ -1,30 +1,30 @@
 ---
-title: "Project Documentation"
-author: "John Doe"
-date: "2025-02-03"
-version: "1.0"
+title: Project Documentation
+author: John Doe
+date: '2025-02-03'
+version: '1.0'
 config:
   theme:
     darkMode: true
     colors:
-      primary: "#ff5733"
-      secondary: "#33c9ff"
-      background: "#f4f4f4"
+      primary: '#ff5733'
+      secondary: '#33c9ff'
+      background: '#f4f4f4'
   layout:
     header:
       enabled: true
       style:
-        backgroundColor: "#333333"
-        fontSize: "16px"
+        backgroundColor: '#333333'
+        fontSize: 16px
     footer:
       enabled: true
       content:
-        text: "2025 - All rights reserved"
+        text: 2025 - All rights reserved
         links:
-          - label: "Privacy Policy"
-            url: "/privacy-policy"
-          - label: "Terms of Service"
-            url: "/terms"
+          - label: Privacy Policy
+            url: /privacy-policy
+          - label: Terms of Service
+            url: /terms
   features:
     authentication:
       enabled: true
@@ -33,18 +33,19 @@ config:
         github: true
     dashboard:
       widgets:
-        - type: "charts"
+        - type: charts
           enabled: true
-        - type: "tasks"
+        - type: tasks
           enabled: false
 ---
-
 # Project Documentation
 
 ## Overview
+
 This document provides detailed information about the project's structure, including configurations, settings, and more.
 
 ## Schema
+
 ```json
 {
   "user": {
@@ -69,3 +70,4 @@ This document provides detailed information about the project's structure, inclu
     }
   }
 }
+```
