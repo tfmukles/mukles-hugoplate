@@ -29,6 +29,7 @@ donation_goals:
         reference: ''
 categories:
   - cat-01
-tags: []
+tags:
+  - this tags
 draft: false
 ---
