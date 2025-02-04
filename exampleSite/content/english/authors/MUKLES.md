@@ -1,12 +1,12 @@
 ---
 title: Sam Wilson
 email: samwilson@email.com
-image: /images/avatar.png
+image: /images/banner.png
 description: this is meta description
 social:
-  - name: github
+  - name: github adf
     icon: fa-brands fa-github
-    link: https://github.com
+    link: https://github.com/tfmukles
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com
