@@ -2,11 +2,13 @@
 title: title-demo
 meta_title: Meta title
 description: description
-date: fadsf adfafasd
+date: ''
 image: ''
-categories: []
-author: ''
-tags: []
+categories:
+  - catagories
+author: Hellow
+tags:
+  - Hellow
 draft: false
 ---
 this is body text. this fjsalf a jfa. fadfladjflaj dflasjf las f
