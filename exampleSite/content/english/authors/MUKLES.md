@@ -1,5 +1,5 @@
 ---
-title: Sam Wilson
+title: Sam Wilson.....
 email: samwilson@email.com
 image: /images/banner.png
 description: this is meta description
