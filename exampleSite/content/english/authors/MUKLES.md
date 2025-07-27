@@ -12,7 +12,7 @@ social:
     link: https://twitter.com
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://linkedin.com asdfa sadf
 draft: false
 meta_title: fadfa fasfa
 ---
