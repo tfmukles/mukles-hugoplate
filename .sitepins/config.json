@@ -4,28 +4,9 @@
     "public": "exampleSite/assets/"
   },
   "content": {
-    "root": "exampleSite/content/english"
+    "root": "exampleSite/content"
   },
   "themeConfig": [],
   "arrangement": [],
-  "showCommitModal": false,
-  "templates": [
-    {
-      "key": "cta",
-      "name": "Cta",
-      "label": "Cta",
-      "fields": [
-        {
-          "name": "title",
-          "label":  "title",
-          "type": "string"
-        },
-        {
-          "name": "heading",
-          "label": "Heading",
-          "type": "string"
-        }
-      ]
-    }
-  ]
+  "showCommitModal": false
 }
